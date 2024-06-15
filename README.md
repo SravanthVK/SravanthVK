@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sravanthvk&label=Profile%20views&color=0e75b6&style=flat" alt="sravanthvk" /> </p>
 
-- 🌱 I’m currently learning **Web development, Artificial Intelligence and Machine Learning**
+- 🌱 Undergradute pursuing Bachelors in **Computer Science** with a specialization in **Artificial Intelligence and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sravanthvk](https://github.com/sravanthvk)
 
