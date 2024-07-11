@@ -16,7 +16,8 @@
 <a href="https://linkedin.com/in/krishnasravanthvanapalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnasravanthvanapalli" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sravanthvk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sravanthvk" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sravanthvp8sp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sravanthvp8sp" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/sravanthvanapalli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sravanthvanapalli" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/sravanthvanapalli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sravanthvanapalli" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sravanth159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/code-chef.svg" alt="sravanth159" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
