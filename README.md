@@ -17,7 +17,7 @@
 <a href="https://www.hackerrank.com/sravanthvk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sravanthvk" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sravanthvp8sp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sravanthvp8sp" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/sravanthvanapalli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sravanthvanapalli" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sravanth159" target="blank"><img align="center" src="https://github.com/sravanthvk/SravanthVK/assets/111895531/a2b72fcb-6fde-485f-9313-d16f592ab200"alt="sravanth159" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sravanth159" target="blank"><img align="center" src="https://github.com/sravanthvk/SravanthVK/assets/111895531/a7eb3c9c-1b48-4fcd-94ab-f02d4a9c3e82"alt="sravanth159" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
